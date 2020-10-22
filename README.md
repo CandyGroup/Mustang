@@ -1,2 +1,2 @@
 # Mustang
-light &amp; fast javascript parser &amp; compile
+light &amp; fast javascript parser &amp; compilec 吗🎉✨✨✨
